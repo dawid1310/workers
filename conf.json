@@ -1,0 +1,12 @@
+{
+"time_perspective" : 180,
+"hourperday" : 8,
+"w_cost" : 1,
+"w_dist" : 0,
+"norm_cost" : 1,
+"norm_dist" : 1,
+"pop_size" : 100,
+"prop_cross" : 0.7,
+"prop_mut" : 0.5,
+"iterations" :100
+}
